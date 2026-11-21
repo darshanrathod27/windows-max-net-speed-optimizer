@@ -1,0 +1,7 @@
+*.log
+*.conf
+*.ovpn
+*.bak
+*.tmp
+__pycache__/
+.env
